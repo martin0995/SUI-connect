@@ -16,20 +16,20 @@ This repository demonstrates the integration of Wormhole Connect in a React app 
 
 ## Installation and Setup
 
-1. Clone the repository:
+**1. Clone the repository:**
 
 ```bash
 git clone https://github.com/martin0995/SUI-connect.git
 cd SUI-connect
 ```
 
-2. Install the dependencies:
+**2. Install the dependencies:**
 
 ```bash
 npm install
 ```
 
-3. Start the application:
+**3. Start the application:**
 
 ```bash
 npm start
